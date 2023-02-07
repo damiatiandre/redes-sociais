@@ -5,3 +5,5 @@
 <p>Todas as redes possuem links funcionais para as minhas redes sociais</p>
 <p>Interessados podem entrar em contato!</p>
 
+<h2>Acesse a página abaixo</h2>
+<p>https://damiatiandre.github.io/redes-sociais/</p>
